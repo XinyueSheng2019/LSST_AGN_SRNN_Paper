@@ -3,7 +3,7 @@ The codes and datasets for the paper 'LSST Cadence Strategy Evaluations for AGN 
 
 Authors: Xinyue Sheng, Nicholas Ross, Matt Nicholl
 
-#####The training and test datasets link:
+##### The training and test datasets link:
 
 https://www.kaggle.com/sherrysheng97/srnn-training-data-drw
 
